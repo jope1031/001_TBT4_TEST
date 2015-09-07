@@ -8,4 +8,5 @@ int main()
 	//DETTA ÄR I JonasP
 	int c = 0;
 	int d = 0;
+	int e = 0;
 }
