@@ -5,5 +5,6 @@ int main()
 	std::cout << "Hello TB T4" << std::endl;
 	int a = 0;
 	int b = 1;
-	//DETTA ÄR I JonasP
+	//DETTA Ã„R I JonasP
+	int c = 0;
 }
